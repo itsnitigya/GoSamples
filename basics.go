@@ -155,7 +155,7 @@ func main() {
 	fmt.Println(a, b)
 
 	sum(1, 2) // Same function, multiple arguments
-    sum(1, 2, 3)
+    	sum(1, 2, 3)
 
 	i := 1
 	zeroptr(&i) // Passing by references
